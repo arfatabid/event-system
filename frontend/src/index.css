@@ -1,0 +1,13 @@
+/* Make full page background black */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black !important;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
