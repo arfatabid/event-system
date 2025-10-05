@@ -21,18 +21,18 @@ A simple and modern **Event Management Web App** made using **React (Vite)**, **
 ## ⚙️ Setup Instructions
 
 ### Backend
-Setup Backend:
-cd backend
-npm install
-sqlite3 data/data.db < schema.sql
-node server.js
-✅ Backend will run on → http://localhost:4000
+- Setup Backend:
+- cd backend
+- npm install
+- sqlite3 data/data.db < schema.sql
+- node server.js
+- ✅ Backend will run on → http://localhost:4000
 
 ### Frontend
-Setup Frontend:
-Open a new terminal (keep backend running):
-cd frontend
-npm install
-npm run dev
-✅ Frontend will run on → http://localhost:5173
+- Setup Frontend:
+- Open a new terminal (keep backend running):
+- cd frontend
+- npm install
+- npm run dev
+- ✅ Frontend will run on → http://localhost:5173
 
